@@ -6,10 +6,10 @@ Project: [https://github.com/lthoangg/se20](https://github.com/lthoangg/se20)
  - Lưu Quý Nhân _ BI9-178 (Sm00thiee)
  - Nguyễn Thế Trung _ BI9-224 (Ntrug1)
 ## Introduction
-Name: Ping Pong Game.
-Platform: PC
-Language: Python
-Type: A retro-styled sport players competitive game.
+> Name: Ping Pong Game.
+> Platform: PC
+> Language: Python
+> Type: A retro-styled sport players competitive game.
 ## Proposal
  **1. Purpose**
   To create a simple competitive experience for the players.
